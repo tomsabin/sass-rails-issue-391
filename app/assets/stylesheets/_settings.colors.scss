@@ -1,0 +1,25 @@
+// Brand blues
+$color-blue-dark:   #1059a6;
+$color-blue-light:  #55bbec;
+
+// Grayscale
+$color-black:       #373737;
+$color-grey-dark:   #bfbfbf;
+$color-grey-light:  #ededed;
+$color-off-white:   #f5f5f5;
+$color-white:       #ffffff;
+
+// Alternate colours
+$color-green:       #dff0d8;
+$color-orange:      #ffaf53;
+
+// Site-wide
+$color-background-html: mix($color-off-white, $color-grey-light);
+$color-background-body: $color-white;
+$color-text:            $color-black;
+$color-text-hover:      $color-blue-dark;
+
+// Component colours
+$color-flash-notice:     $color-green;
+$color-flash-alert:      $color-orange;
+$color-validation-error: $color-orange;

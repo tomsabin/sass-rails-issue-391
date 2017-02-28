@@ -1,0 +1,19 @@
+p {
+  margin-bottom: .5rem;
+}
+
+i,
+em {
+  font-style: italic;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+code {
+  background-color: $color-grey-light;
+  word-break: break-all;
+  font-family: monospace;
+}
